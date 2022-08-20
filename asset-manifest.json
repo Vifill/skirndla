@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/skirndla-vifilsdottir/static/css/main.1325e3a1.css",
-    "main.js": "/skirndla-vifilsdottir/static/js/main.149a49ef.js",
-    "static/js/787.b3f9d252.chunk.js": "/skirndla-vifilsdottir/static/js/787.b3f9d252.chunk.js",
-    "index.html": "/skirndla-vifilsdottir/index.html",
-    "main.1325e3a1.css.map": "/skirndla-vifilsdottir/static/css/main.1325e3a1.css.map",
-    "main.149a49ef.js.map": "/skirndla-vifilsdottir/static/js/main.149a49ef.js.map",
-    "787.b3f9d252.chunk.js.map": "/skirndla-vifilsdottir/static/js/787.b3f9d252.chunk.js.map"
+    "main.css": "/skirndla/static/css/main.1325e3a1.css",
+    "main.js": "/skirndla/static/js/main.3aa7c05d.js",
+    "static/js/787.b3f9d252.chunk.js": "/skirndla/static/js/787.b3f9d252.chunk.js",
+    "index.html": "/skirndla/index.html",
+    "main.1325e3a1.css.map": "/skirndla/static/css/main.1325e3a1.css.map",
+    "main.3aa7c05d.js.map": "/skirndla/static/js/main.3aa7c05d.js.map",
+    "787.b3f9d252.chunk.js.map": "/skirndla/static/js/787.b3f9d252.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1325e3a1.css",
-    "static/js/main.149a49ef.js"
+    "static/js/main.3aa7c05d.js"
   ]
 }
