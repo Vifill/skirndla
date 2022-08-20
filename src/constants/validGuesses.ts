@@ -230,4 +230,4 @@ export const VALID_GUESSES = [
     "Þórkatla",
     "Þórstína",
     "Æsgerður"
-  ];
+  ]
