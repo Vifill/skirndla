@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skirndla-vifilsdottir/static/css/main.1325e3a1.css",
+    "main.js": "/skirndla-vifilsdottir/static/js/main.033cd7da.js",
+    "static/js/787.b3f9d252.chunk.js": "/skirndla-vifilsdottir/static/js/787.b3f9d252.chunk.js",
+    "index.html": "/skirndla-vifilsdottir/index.html",
+    "main.1325e3a1.css.map": "/skirndla-vifilsdottir/static/css/main.1325e3a1.css.map",
+    "main.033cd7da.js.map": "/skirndla-vifilsdottir/static/js/main.033cd7da.js.map",
+    "787.b3f9d252.chunk.js.map": "/skirndla-vifilsdottir/static/js/787.b3f9d252.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1325e3a1.css",
+    "static/js/main.033cd7da.js"
+  ]
+}
